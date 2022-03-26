@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/api/api.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/api/api (1).iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/api/api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/cloud-gateway/cloud-gateway.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/cloud-gateway/cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/common/common.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/common/common (1).iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/common/common (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/config-server/config-server.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/customer-microservice.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/customer-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/entity/entity.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/entity/entity (1).iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/entity/entity (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eureka-order-customer-microservices.iml" filepath="$PROJECT_DIR$/.idea/eureka-order-customer-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/ordering-microservice.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/ordering-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/repository/repository.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/repository/repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/repository/repository (1).iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/repository/repository (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/service/service.iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/order-microservice/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/service/service (1).iml" filepath="$PROJECT_DIR$/eureka-order-customer-microservices/customer-microservice/service/service (1).iml" />
+    </modules>
+  </component>
+</project>
