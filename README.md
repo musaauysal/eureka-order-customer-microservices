@@ -1,4 +1,3 @@
-# Tesodev Case
 
 this project is built using spring boot microservice architecture api gateway and config server
 
